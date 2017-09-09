@@ -12,9 +12,9 @@ class Spy:
         self.current_status_message = None
 
 spy = Spy('bond', 'Mr.', 24, 4.7)
-friend_one = Spy('Nitkarsh', 'Mr.', 21, 4.9)
-friend_two = Spy('Anant', 'Ms.', 22, 4.39)
-friend_three = Spy('Pooja', 'Mrs.', 21, 3.95)
+friend_one = Spy('Mayank', 'Mr.', 21, 4.9)
+friend_two = Spy('Tarsh', 'Mr.', 22, 4.39)
+friend_three = Spy('Pragya', 'Ms.', 21, 3.95)
 
 friends = [friend_one, friend_two, friend_three]
 
